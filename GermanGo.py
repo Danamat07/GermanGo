@@ -3,7 +3,6 @@ from tkinter import messagebox
 import json
 import random
 
-
 class GermanGo:
 
     def __init__(self, master, words=None):
